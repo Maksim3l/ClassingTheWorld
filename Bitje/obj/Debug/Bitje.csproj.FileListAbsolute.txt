@@ -1,0 +1,11 @@
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\obj\Debug\Bitje.csproj.AssemblyReference.cache
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\obj\Debug\Bitje.csproj.CoreCompileInputs.cache
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\bin\Debug\Bitje.dll.config
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\bin\Debug\Bitje.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\bin\Debug\Bitje.pdb
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\bin\Debug\Stvar.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\bin\Debug\Stvar.pdb
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\bin\Debug\Stvar.dll.config
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\obj\Debug\Bitje.csproj.CopyComplete
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\obj\Debug\Bitje.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Bitje\obj\Debug\Bitje.pdb

@@ -1,0 +1,7 @@
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\bin\Debug\Stvar.dll.config
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\bin\Debug\Stvar.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\bin\Debug\Stvar.pdb
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\obj\Debug\Stvar.csproj.AssemblyReference.cache
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\obj\Debug\Stvar.csproj.CoreCompileInputs.cache
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\obj\Debug\Stvar.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Stvar\obj\Debug\Stvar.pdb

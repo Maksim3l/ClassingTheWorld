@@ -1,0 +1,14 @@
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Žival.dll.config
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Žival.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Žival.pdb
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Bitje.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Stvar.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Bitje.pdb
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Bitje.dll.config
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Stvar.pdb
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\bin\Debug\Stvar.dll.config
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\obj\Debug\Žival.csproj.AssemblyReference.cache
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\obj\Debug\Žival.csproj.CoreCompileInputs.cache
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\obj\Debug\Žival.csproj.CopyComplete
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\obj\Debug\Žival.dll
+C:\Users\lokna\source\repos\Razredovanje Sveta\Žival\obj\Debug\Žival.pdb
